@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">CeritaNgaliyanHebat</string>
+
+<!--    FYI : array ini sesuai urutan data yang ditampilkan-->
+    <string-array name="data_title">
+        <item>Toponomi Kelurahan Babankerep</item>
+        <item>Toponomi Kelurahan Bringin</item>
+        <item>Toponomi Kelurahan Gondoriyo</item>
+
+        <item>Toponomi Kelurahan Kalipancur</item>
+        <item>Toponomi Kelurahan Ngaliyan</item>
+        <item>Toponomi Kelurahan Podorejo</item>
+
+        <item>Toponomi Kelurahan Purwoyoso</item>
+        <item>Toponomi Kelurahan Tambakaji</item>
+        <item>Toponomi Kelurahan Wates</item>
+
+        <item>Toponomi Kelurahan Wonosari</item>
+    </string-array>
+
+<!--    ini data gambar dari folder drawable-->
+    <array name="data_poster">
+        <item>@drawable/babankerep</item>
+        <item>@drawable/bringin</item>
+        <item>@drawable/gondoriyo</item>
+
+        <item>@drawable/kalipancur</item>
+        <item>@drawable/ngaliyan</item>
+        <item>@drawable/podorejo</item>
+
+        <item>@drawable/purwoyoso</item>
+        <item>@drawable/tambakaji</item>
+        <item>@drawable/wates</item>
+
+        <item>@drawable/wonosari</item>
+    </array>
+
+
+    <string-array name="data_detail">
+        <item>Babankerep adalah daerah baban dan kerep</item>
+        <item>Bringin adalah daerah yg penuh pohon beringin</item>
+        <item>Gondoriyo adalah daerah banyak gendruwo</item>
+
+        <item>Kalipancur adalah daerah banyak pancuran2</item>
+        <item>Ngaliyan adalah daerah di semarang barat</item>
+        <item>Podorejo adalah daerah podo2 kerjo</item>
+
+        <item>Purwoyoso adalah daerah ujung kota semarang</item>
+        <item>Tambakaji adalah daerah yang katanya ada tambaknya padahal ga ada</item>
+        <item>Wates adalah temennya pepaya (kates) :)</item>
+
+        <item>Wonosari adalah temen deketnya wonogiri</item>
+    </string-array>
+
+<!--    ini parse color untuk background tiap data yang ditampilkan, urut sesuai tampilan data-->
+    <string-array name="data_color">
+        <item>#00A4E3</item>
+        <item>#2F3386</item>
+        <item>#009B56</item>
+
+        <item>#FFEE51</item>
+        <item>#EB1B2F</item>
+        <item>#E9007E</item>
+
+        <item>#B34B84</item>
+        <item>#F48335</item>
+        <item>#F7B3B4</item>
+
+        <item>#8A7871</item>
+    </string-array>
+
+
+
+
+</resources>
